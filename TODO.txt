@@ -1,0 +1,30 @@
+TODO:
+- Make a admission TODO List based on Fallout
+
+Mecha:
+	- Design Display lvl -> Find solution for Motor: 1 DONE
+	- Add screws/holding elements
+	- Cable mgmt 	p.DONE
+
+PCB/Electronics:
+	- Add PCB lables DONE
+	- JLCPCB Order design: 2
+	- Kippsensor?
+
+Programming:
+	- Work out calibration
+	- Work out math
+	- Work out math-dependant algorithmics
+
+
+Documentation:
+	- Add BOM
+	- Convert to STL
+
+
+Documentation points that need to show:
+	- Describe the lvl feaures: Lvl1: Motors, Lvl2: conotroll: Lvl3: Interface
+	- Custom bottom part -> Cheeseplate
+	- Why did i choose the St3215 Servo? -> 12v, Modularity
+	- 2020-to-vertecies t nut fixation
+	- Why did i add the servo board spacers as a separate model?
