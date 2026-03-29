@@ -1,28 +1,44 @@
 TODO:
-- Make a admission TODO List based on Fallout
+- Make an admission TODO List based on Fallout
 
-Mecha:
-	- Design Display lvl -> Find solution for Motor: 1 DONE
-	- Add screws/holding elements
-	- Cable mgmt 	p.DONE
+Mechanics:
+	- Add screws/holding elements (1h)
+- Add an angle sensor (2h)
+- design and implement rotation counters for rope length operations based on magnetical encoders (2h)
+       -× Figure out if I can add the upper guide ring as a counter
+- Rethink guidance system (2h)
+
+Subtotal h=7
 
 PCB/Electronics:
-	- Add PCB lables DONE
-	- JLCPCB Order design: 2
-	- Kippsensor?
+	- JLCPCB Order design: 2 (½h)
 
-Programming:
-	- Work out calibration
-	- Work out math
-	- Work out math-dependant algorithmics
+Programming/Math:
+	- Work out calibration (3h)
+	- Work out math (1h)
+	- Finish Simulink design (4h)
+- Calculate weight of construction (1½h)
+- Re-evaluate load elements in construction (possible Simulation) (2h) -> Document! (½h)
+-Ready? Set? Code! (5h)
+
+Subtotal h=17
+
 
 
 Documentation:
-	- Add BOM
-	- Convert to STL
+	- Add BOM (1h)
+	- Convert to STL (1h)
+- Make good RM file on GH (2h)
+
+Subtotal h=4
+
+Total h=28, therefore ~4 intensive days
 
 
-Documentation points that need to show:
+Organisatory:
+- Figure out AI usage possibilities to gain knoledge (fallout@hackclub.?)
+
+Documentation points that need to be  shown:
 	- Describe the lvl feaures: Lvl1: Motors, Lvl2: conotroll: Lvl3: Interface
 	- Custom bottom part -> Cheeseplate
 	- Why did i choose the St3215 Servo? -> 12v, Modularity
