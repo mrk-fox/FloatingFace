@@ -1,12 +1,9 @@
 TODO:
-- Make an admission TODO List based on Fallout
+	- Make an admission TODO List based on Fallout
 
 Mechanics:
 	- Add screws/holding elements (1h)
-- Add an angle sensor (2h)
-- design and implement rotation counters for rope length operations based on magnetical encoders (2h)
-       -× Figure out if I can add the upper guide ring as a counter
-- Rethink guidance system (2h)
+	- Add bumper system
 
 Subtotal h=7
 
@@ -14,12 +11,8 @@ PCB/Electronics:
 	- JLCPCB Order design: 2 (½h)
 
 Programming/Math:
-	- Work out calibration (3h)
-	- Work out math (1h)
-	- Finish Simulink design (4h)
-- Calculate weight of construction (1½h)
-- Re-evaluate load elements in construction (possible Simulation) (2h) -> Document! (½h)
--Ready? Set? Code! (5h)
+	- Calculate weight of construction (1½h) - 2,163kg +- 0.8%
+	- Ready? Set? Code! (5h)
 
 Subtotal h=17
 
@@ -28,15 +21,13 @@ Subtotal h=17
 Documentation:
 	- Add BOM (1h)
 	- Convert to STL (1h)
-- Make good RM file on GH (2h)
+	- Make good RM file on GH (2h)
 
 Subtotal h=4
 
 Total h=28, therefore ~4 intensive days
 
 
-Organisatory:
-- Figure out AI usage possibilities to gain knoledge (fallout@hackclub.?)
 
 Documentation points that need to be  shown:
 	- Describe the lvl feaures: Lvl1: Motors, Lvl2: conotroll: Lvl3: Interface
@@ -44,3 +35,10 @@ Documentation points that need to be  shown:
 	- Why did i choose the St3215 Servo? -> 12v, Modularity
 	- 2020-to-vertecies t nut fixation
 	- Why did i add the servo board spacers as a separate model?
+
+
+ACTUALLY, ONLY 3 BIG TASKS LEFT!
+- CODE
+- DOCU
+
+- Add numbers to deltadrive

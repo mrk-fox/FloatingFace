@@ -1,0 +1,23 @@
+Turn sensor plan sheet:
+
+It should... 
+- keep track of how may rotations+angle of the conter wheel were made
+
+Problems...
+- Magnetic sensors count precise but not fast
+- Rotational sensors count fast, but not precise
+
+Solution?...
+
+- Use both ig?
+
+
+Mechanical problems:
+
+- What should be the counter wheel?
+	- Can it be the normal guide ring? The top one?
+	Problem: It is curved.
+	Solution: Make it rotate? radially?
+	Problem: Complex mechanically and forces distribute horribly.
+	Solution: Rectangluar guide?: +: Very easy to implement. -> hv
+	Problem: It should first be approx. straigt and only then bend.
