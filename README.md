@@ -1,2 +1,3 @@
 # FloatingFace
-A three-string-mounted small display roboter for a room.
+A three-string-mounted small multifunctional cable roboter concept.
+
