@@ -12,7 +12,6 @@ PCB/Electronics:
 
 Programming/Math:
 	- Calculate weight of construction (1½h) - 2,163kg +- 0.8%
-	- Ready? Set? Code! (5h)
 
 Subtotal h=17
 
@@ -37,8 +36,5 @@ Documentation points that need to be  shown:
 	- Why did i add the servo board spacers as a separate model?
 
 
-ACTUALLY, ONLY 3 BIG TASKS LEFT!
-- CODE
+ACTUALLY, ONLY 1 BIG TASKS LEFT!
 - DOCU
-
-- Add numbers to deltadrive

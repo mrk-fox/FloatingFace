@@ -1,0 +1,38 @@
+Shipping - Todo steps:
+
+3 Fields:
+
+-----------------MARKDOWN--------------------
+- Catchy introduction
+- Highlights
+- Overview
+- Why did i build it?
+	- Currently a POC
+
+- Function
+- Math 
+	-> Matlab
+	-> LaTeX
+- PCB
+
+-Reserve variants (Flaschenzug)
+
+-TODOs (Bigger roll, for example)
+
+-Feedback options
+
+-----------------VIDEOs-----------------------
+
+Expaining Math concept
+- Vector system
+- Calibration System
+- 
+
+
+-----------------Files-------------------------
+- everyting to STEP and STL
+
+- Gerber Files
+
+
+-----------------POSTER------------------------
