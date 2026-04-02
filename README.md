@@ -30,7 +30,7 @@ I built this project as proof-of-concept system for a 3-point-mounted, portable 
 ## PCB
 
 Floaty has a custom-designed driver developer board for three TMC2209 drivers. Look at the design! <br>
-<img src="https://github.com/mrk-fox/FloatingFace/blob/main/pictures/delta_drive_v1.1_final.jpg.png" alt="Flowers" style="width:auto;">
+<img src="https://github.com/mrk-fox/FloatingFace/blob/main/pictures/delta_drive_v1.1_chem.png" alt="Flowers" style="width:auto;">
 Thats all the layers overlapped...
 <br><br><br>
 <img src="https://github.com/mrk-fox/FloatingFace/blob/main/pictures/delta_drive_v1.1.jpg" alt="Flowers" style="width:auto;">
@@ -69,6 +69,10 @@ The movement algorithm itself works on command through these steps:
 9. Calibrate angles on finish
 
 For angle calibration, Floaty uses the MP5060 sensor which gives an angle relative to gravity and the direction of the orthogonal of the angled face of the sensor. With that data an iterative funciton is started ajusting one motor step at a time until an angle less than 10 degrees is reached. 
+
+## Zine Page
+
+<img src="https://github.com/mrk-fox/FloatingFace/blob/main/pictures/fallout_zine.png" alt="Flowers" style="width:auto;">
 
 ## Credit
 I thank this project to... <br>
