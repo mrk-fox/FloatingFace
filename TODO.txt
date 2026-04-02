@@ -3,7 +3,6 @@ TODO:
 
 Mechanics:
 	- Add screws/holding elements (1h)
-	- Add bumper system
 
 Subtotal h=7
 

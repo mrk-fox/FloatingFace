@@ -515,7 +515,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../../design/",
+      "plot": "../../gerber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "../../models/drivers_pcb_v1.1.stl",

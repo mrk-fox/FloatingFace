@@ -737,7 +737,7 @@ void coeff_calc(float* delta_g, float* out_coeff) {
     coeff2[i] = delta_g[i] / maxVal;     // use it
   }
   for(int i = 0; i < 3; i++) {
-    out_coeff[i] = abs(coeff2[i]);
+    out_coeff[i] = 1/abs(coeff2[i]);
   }
 }
 

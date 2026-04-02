@@ -23,16 +23,10 @@ Shipping - Todo steps:
 
 -----------------VIDEOs-----------------------
 
-Expaining Math concept
-- Vector system
-- Calibration System
-- 
-
+- Cut video
 
 -----------------Files-------------------------
 - everyting to STEP and STL
-
-- Gerber Files
 
 
 -----------------POSTER------------------------
