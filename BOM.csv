@@ -1,0 +1,26 @@
+﻿Id;Part;Amount;Link;Price;Delivery;Note;
+1;695 Bearing;15;link;$5,13;$1,65;;
+2;ST3215 Waveshare;1;https://www.waveshare.com/st3215-servo.htm?sku=22414;$2,99;;;
+3;Serial Bus Servo Driver Board;1;https://www.waveshare.com/product/modules/motors-servos/drivers/bus-servo-adapter-a.htm;$4,99;$5,00;;
+4;TMC2209 Drivers;4;link;$10,52;;4 is cheaper than 3;
+5;900mm 2020 Profile;1;link;7,16 €;;;
+6;U-Light Sensor;3;link;2,76 €;5,59 €;;
+7;10x10x5 Neodym magnets;5;link;7,57 €;0 €;Cheaper magnets have not the necessary documentation and polarity;
+8;AS5600 Magnetic Encodes;3;link;9,00 €;1,56 €;;
+9;delta_drive v1.1;5;JLCPCB, see picture on github;$7,00;3,30 €;smallest order qty;
+10;ESP32-S3-DevKitC-1;1;link;$7,77;;;
+11;TCA9548A;1;link;$1,52;;;
+12;MPU 5060;1;link;$1,17;;;
+13;NEMA17 0.5Nm;3;already got some;;;;
+14;1kg ABS;1;https://eu.store.bambulab.com/de/products/abs-filament?id=46963746046300;25,99 €;;;
+15;2 Pin Phoenix terminal;1;link;$1,17;;;
+;;;;;;;
+;;;;;;;
+;;;all EUR entries;52,48 €;7,15 €;59,63 €;
+;;; all USD entries;$42,26 ;$9,95;$52,21;
+;;;;;;;
+;;;;EUR/USD exchange:;1,15;;
+;;;;;;;
+;;;;SUM:;;;
+;;;;$120,78;;;
+;;;;;;;3%
