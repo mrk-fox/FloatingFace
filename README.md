@@ -70,6 +70,10 @@ The movement algorithm itself works on command through these steps:
 
 For angle calibration, Floaty uses the MP5060 sensor which gives an angle relative to gravity and the direction of the orthogonal of the angled face of the sensor. With that data an iterative funciton is started ajusting one motor step at a time until an angle less than 10 degrees is reached. 
 
+## Zine Page
+
+<img src="https://github.com/mrk-fox/FloatingFace/blob/main/pictures/fallout_zine.png" alt="Flowers" style="width:auto;">
+
 ## Credit
 I thank this project to... <br>
 ... [KiCad](https://www.kicad.org/)<br>
