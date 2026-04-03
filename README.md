@@ -14,6 +14,8 @@ A three-string-mounted small multifunctional cable roboter concept. <br>
 </div>
 <br>
 
+FloatingFace is a roboter, mounted by 3mm paracord ropes at three points arranged in a triangle which achieves movement withing and under these 3 mounting points by tensioning or loosening each these ropes.
+
 ## Key features
 
 - 3-points mount
