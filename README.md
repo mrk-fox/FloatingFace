@@ -78,6 +78,7 @@ As the size of the robot is constrainted to certain limits, cable routing is cru
 1. Zip-ties packaging the cable strands shoukd be placed every 2cm (0.787in)
 2. Every cable leading to the line measurment units/motos should be placed in the through-leading holes of the appropriate third of the robot
 3. A safe-zone of 1cm (0.393in) around the perimeter of the cutout of the basement plate for the line rolls should be cable-free to ensure a tangle-free operation
+The mounting is done through running zip ties around the vertical spacers for the levels and the cable holes on the baseplates themselves.
 
 ## Zine Page
 
