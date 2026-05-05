@@ -72,6 +72,13 @@ The movement algorithm itself works on command through these steps:
 
 For angle calibration, Floaty uses the MP5060 sensor which gives an angle relative to gravity and the direction of the orthogonal of the angled face of the sensor. With that data an iterative funciton is started ajusting one motor step at a time until an angle less than 10 degrees is reached. 
 
+## Cables
+
+As the size of the robot is constrainted to certain limits, cable routing is crutial to ensure a safe and reliable operation. The following rules apply:
+1. Zip-ties packaging the cable strands shoukd be placed every 2cm (0.787in)
+2. Every cable leading to the line measurment units/motos should be placed in the through-leading holes of the appropriate third of the robot
+3. A safe-zone of 1cm (0.393in) around the perimeter of the cutout of the basement plate for the line rolls should be cable-free to ensure a tangle-free operation
+
 ## Zine Page
 
 <img src="https://github.com/mrk-fox/FloatingFace/blob/main/pictures/fallout_zine.png" alt="Flowers" style="width:auto;">
