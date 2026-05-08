@@ -72,6 +72,17 @@ The movement algorithm itself works on command through these steps:
 
 For angle calibration, Floaty uses the MP5060 sensor which gives an angle relative to gravity and the direction of the orthogonal of the angled face of the sensor. With that data an iterative funciton is started ajusting one motor step at a time until an angle less than 10 degrees is reached. 
 
+## Assembly
+The assembly is currently a prediciton of the possible steps. I doubt, that anyone will build this before me, but here we go:
+
+1. Begin with the level one baseplate assemble the motors with the line drums and place them onto the baseplate
+2. Mount the Servo and the MCU to the motor mount and baseplate
+3. Assemble the 20x20 frame hexagon and mount the baseplate to the hexagon together with the line guides/sensing units
+4. Assemble the secon level (electronics) and connect all electronics! (see below)
+5. Fix everything together with the threaded rods and the spacers
+6. Add the cheeseplate
+7. Flash the firmware
+
 ## Cables
 
 As the size of the robot is constrainted to certain limits, cable routing is crutial to ensure a safe and reliable operation. The following rules apply:
